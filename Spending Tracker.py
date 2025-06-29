@@ -12,21 +12,9 @@ Why is this a problem?
     how much I have spent. 
     
 Potential solution:
-    I think for the solution to a spending problem one must be completely aware of exactly how much they are 
-    spending, where they are spending, and why they are spending. That way they are able to work on themselves 
-    and make daily decesions that help them fight the urge to go spend money on something unnecessary. 
-    
     A potential solution will be saving the recipts and calculating at the end of each week or month how much 
     I have spent of unnecessary stuff, but I have a tendancy of losing recipts and some fast food places
     such as the tim hortons in the eaton centre food court do not give you recipts. 
-    
-    Another potential solution is to create a tracker that I can input all my impulsive spendings.
-    
-My idea to solve the problem: 
-    My idea to solve this problem is to create a program where I can input my spending in real time and every time
-    I do input some spendings, the program tells me how much money I have spent in total since I started keeping track, 
-    how much I have spent during a period of 30 days, what my most common category of spending(such as clothing, makeup, 
-    food, etc) was and my most common mood(such as stressed, happy, tired, frusterated, etc) was at the time I spent money.
 '''
 import os
 import datetime 
