@@ -1,21 +1,4 @@
 # -*- coding: utf-8 -*-
-
-'''
-The problem:
-    As a first year university student in Downtown Toronto, I often find my self spending money 
-    on stuff I do not need such as clothing, food/snacks(when I already brought a home made lunch), 
-    entertainment, etc. 
-    
-Why is this a problem? 
-    For me this is a problem because I do not have a credit card and always spend the cash I receive from 
-    my parents when making purchases so I often am not able to keep track of where I have spent my money and 
-    how much I have spent. 
-    
-Potential solution:
-    A potential solution will be saving the recipts and calculating at the end of each week or month how much 
-    I have spent of unnecessary stuff, but I have a tendancy of losing recipts and some fast food places
-    such as the tim hortons in the eaton centre food court do not give you recipts. 
-'''
 import os
 import datetime 
 from collections import Counter
